@@ -35,7 +35,7 @@ function App() {
   return (
     <div className="pw-bg">
       <div className="pw-card">
-        <h1 className="pw-title">Password</h1>
+        <h1 className="pw-title">Password Generator</h1>
         <div className="pw-row">
           <input
             type="text"
